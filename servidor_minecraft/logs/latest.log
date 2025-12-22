@@ -1,0 +1,58 @@
+[21:17:05] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[21:17:05] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) for Minecraft 1.21.10
+[21:17:05] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:17:06] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[21:17:06] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - DayCounter (2.1), OpenInv (4.4.1), ViaVersion (5.5.2-SNAPSHOT)
+[21:17:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:17:18] [ServerMain/INFO]: Loaded 1461 recipes
+[21:17:18] [ServerMain/INFO]: Loaded 1574 advancements
+[21:17:18] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[21:17:18] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 576.3ms
+[21:17:18] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[21:17:18] [Server thread/INFO]: Loading properties
+[21:17:19] [Server thread/INFO]: This server is running Paper version 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[21:17:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:17:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:17:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:17:21] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:17:21] [Server thread/INFO]: Default game type: SURVIVAL
+[21:17:21] [Server thread/INFO]: Generating keypair
+[21:17:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:17:21] [Server thread/INFO]: Using epoll channel type
+[21:17:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:17:21] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[21:17:22] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.2-SNAPSHOT
+[21:17:22] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.2-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[21:17:23] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading block connection mappings ...
+[21:17:23] [Via-Mappingloader-1/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[21:17:24] [Server thread/INFO]: [DayCounter] Loading server plugin DayCounter v2.1
+[21:17:24] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v4.4.1
+[21:17:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:17:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:17:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:17:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:17:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:17:24] [Server thread/INFO]: Preparing level "world"
+[21:17:26] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[21:17:26] [Server thread/INFO]: Prepared spawn area in 7 ms
+[21:17:26] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[21:17:26] [Server thread/INFO]: Prepared spawn area in 2 ms
+[21:17:26] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[21:17:26] [Server thread/INFO]: Prepared spawn area in 4 ms
+[21:17:26] [Server thread/INFO]: Done preparing level "world" (1.691s)
+[21:17:26] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.2-SNAPSHOT
+[21:17:26] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.9-1.21.10 (773)
+[21:17:26] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version!
+[21:17:26] [Server thread/WARN]: [ViaVersion] ViaVersion only supports newer client versions. Use ViaBackwards to allow older versions (ViaRewind for 1.7/1.8) to join.
+[21:17:26] [Server thread/WARN]: [ViaVersion] Get setup help at https://viaversion.com/setup or download ViaBackwards/ViaRewind directly at https://ci.viaversion.com/
+[21:17:26] [Server thread/WARN]: [ViaVersion] Need more help? Join our Discord at https://viaversion.com/discord
+[21:17:26] [Server thread/INFO]: [DayCounter] Enabling DayCounter v2.1
+[21:17:26] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.4.1
+[21:17:26] [Server thread/WARN]: [OpenInv] Your server version (craftbukkit) is not supported.
+[21:17:26] [Server thread/WARN]: [OpenInv] Please download the correct version of OpenInv here: https://github.com/Jikoo/OpenInv/releases
+[21:17:26] [Server thread/INFO]: [spark] Starting background profiler...
+[21:17:27] [Server thread/INFO]: Running delayed init tasks
+[21:17:27] [Server thread/INFO]: Done (24.793s)! For help, type "help"
+[21:17:27] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[21:17:27] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.6.0, you're on: 5.5.2-SNAPSHOT
